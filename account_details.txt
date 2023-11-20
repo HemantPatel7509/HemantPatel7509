@@ -1,0 +1,4 @@
+accno=12345678
+name=hemant patel
+bank_balance=10000
+pin=1234
